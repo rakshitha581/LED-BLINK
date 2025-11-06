@@ -66,20 +66,21 @@ The **LPC2148**, developed by NXP Semiconductors (Philips), is a 16/32-bit ARM7-
    ![WhatsApp Image 2025-10-29 at 21 37 33_e8b1d932](https://github.com/user-attachments/assets/dec23e5e-9943-4275-97dc-497d21c5d073)
 
 8. Edit the generated main program as required.
-   <img width="1110" height="624" alt="image" src="https://github.com/user-attachments/assets/05b39060-35d6-420d-9f4d-8721439bd82f" />
-<img width="1104" height="621" alt="image" src="https://github.com/user-attachments/assets/2ec55709-a45f-4e6e-8738-6aa94138eab1" />
+  ![WhatsApp Image 2025-11-06 at 13 56 27_9ebbb243](https://github.com/user-attachments/assets/e07b2b72-1bd1-48a8-abb1-c8a8bc470584)
+![WhatsApp Image 2025-11-06 at 13 58 58_7e363e4e](https://github.com/user-attachments/assets/f2d98478-bb93-4ea1-be9b-c71c42ddee96)
 
 9. Click **Project → Build All**.
-    <img width="1080" height="608" alt="image" src="https://github.com/user-attachments/assets/264cd0a8-3e96-4668-822e-838ecfafc527" />
-
+  <img width="1776" height="843" alt="image" src="https://github.com/user-attachments/assets/bc2fa6a2-d952-458b-af17-2dc6b03f7a05" />
+ 
 10. Link the **HEX file** using the post-build process.
-    <img width="1053" height="465" alt="image" src="https://github.com/user-attachments/assets/478187a0-0ee6-4c50-9cac-c3b5ee18521b" />
+    ![WhatsApp Image 2025-11-06 at 13 58 58_8ea38436](https://github.com/user-attachments/assets/87410b9c-6f77-4031-a0d0-727b3544abe8)
 
 11. Click **Debug** and connect the **STM Nucleo Board**.
-    <img width="1080" height="608" alt="image" src="https://github.com/user-attachments/assets/f72fff44-6073-4ae4-aa78-0da455df9af1" />
+  <img width="1282" height="837" alt="image" src="https://github.com/user-attachments/assets/965e1731-d211-4198-b493-1741e11ac35a" />
 
-13. Click **Run** to execute the program.
-    
+12. Click **Run** to execute the program.
+    <img width="1282" height="837" alt="image" src="https://github.com/user-attachments/assets/965e1731-d211-4198-b493-1741e11ac35a" />
+
 ---
 
 ### 💻 **Program**
@@ -109,8 +110,10 @@ int main(void)
 ---
 ### OUTPUT
 CASE 1: LED ON 
+![WhatsApp Image 2025-11-06 at 14 32 19_70d938aa](https://github.com/user-attachments/assets/bdd9d094-7761-45cf-8ad9-b2b62e5f69c7)
 
 CASE 2: LED OFF
+![WhatsApp Image 2025-11-06 at 14 32 19_337784f5](https://github.com/user-attachments/assets/f0f742e8-2ffc-4cfc-83a6-13e2d5838a56)
 
 ---
 ### RESULT
